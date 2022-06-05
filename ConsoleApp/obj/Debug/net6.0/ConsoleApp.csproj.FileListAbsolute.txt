@@ -1,0 +1,15 @@
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/bin/Debug/net6.0/ConsoleApp
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/bin/Debug/net6.0/ConsoleApp.deps.json
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/bin/Debug/net6.0/ConsoleApp.runtimeconfig.json
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/bin/Debug/net6.0/ConsoleApp.dll
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/bin/Debug/net6.0/ConsoleApp.pdb
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/obj/Debug/net6.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfo.cs
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/obj/Debug/net6.0/ConsoleApp.dll
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/obj/Debug/net6.0/refint/ConsoleApp.dll
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/obj/Debug/net6.0/ConsoleApp.pdb
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/obj/Debug/net6.0/ConsoleApp.genruntimeconfig.cache
+/Users/artemrizov/Desktop/project git beetrop/ConsoleApp/obj/Debug/net6.0/ref/ConsoleApp.dll
